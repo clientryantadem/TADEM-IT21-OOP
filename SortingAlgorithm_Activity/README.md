@@ -1,6 +1,6 @@
 Sorting Algorithms Activity
 
-Unsa ang gibuhat sa akong programa?
+Unsa ang gibuhat sa akong program?
 
 Ang akong Java program  nag-sort ko og usa ka array nga naay 10 ka numero gikan sa gamay padulong sa dako (ascending). Nag gamit ko og tulo ka lahi nga paagi: Bubble Sort, Selection Sort, ug Insertion Sort. Sa `main()`, naghimo ko og tulo ka kopya sa original nga array aron ang isig ka algorithm magsugod sa parihas nga unsorted nga numero. Human niana, gi-print nako ang original nga array ug ang resulta sa isig ka sorting method aron makita nga parihas ang kataposang han-ay.
 
